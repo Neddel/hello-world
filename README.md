@@ -1,4 +1,4 @@
-# hello-Git
+# hello-git
 
 Hi guys!
 
